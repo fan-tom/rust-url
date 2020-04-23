@@ -1962,7 +1962,7 @@ impl Url {
     ///
     /// # Examples
     ///
-    /// Change the URL’s scheme from `https` to `foo`:
+    /// Change the URL’s scheme from `https` to `http`:
     ///
     /// ```
     /// use url::Url;
